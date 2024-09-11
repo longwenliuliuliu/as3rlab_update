@@ -1,25 +1,62 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # align: right
+  # image: prof_pic.jpg
+  # image_circular: false # crops the image to make it circular
+  # address: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
+---
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## Advanced System Safety and Security Research Lab
+The Advanced System Safety and Security Research Lab, under the leadership of Prof. Yuqi Chen at the School of Information Science and Technology, ShanghaiTech University, is a pioneering laboratory dedicated to advancing research in software engineering and cyber security. With a primary focus on cutting-edge areas such as autonomous vehicle, cyber-physical system, program analysis, and formal methods, the lab aims to drive innovation and push the boundaries of knowledge in these fields.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+---
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Yuqi Chen
+
+<img align="right" src="/assets/img/yuqi.jpeg" alt="" width="200">
+
+Yuqi Chen is an assistant Professor (tenure-track) at [School of Information Science and Technology](https://sist.shanghaitech.edu.cn/) in the [ShanghaiTech University](https://www.shanghaitech.edu.cn/). Yuqi completed his Ph.D. in 2019 at the [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/) under the supervision of [Sun Jun](https://sunjun.site/). Besides, he also collaborated closely with [Chris Poskitt](https://cposkitt.github.io/). From 2019 to 2021, he worked as a Research Scientist in the [System Analysis and Verification (SAV) group](https://sav-smu.github.io/) group at [Singapore Management University(SMU)](https://www.smu.edu.sg/).
+
+His research interest includes AI-based system security, focusing on applying techniques such as program analysis, formal methods, and testing to secure and analyze AI-based systems. These systems include autonomous vehicles, industrial control systems, and robotics systems. Furthermore, he shows interest in exploring strategies for attacking and defending the Large Language Models.
+
+
+### Recruitment
+
+I am looking for self-motivated PhD/MS students, postdoc, and research assistant to conduct research in areas of software engineering, system security, AI security, and autonomous vehicles. Please feel free to drop me an email with your CV if you are interested.
+
+---
+
+### Program Committee Member
+- 2025: ISSTA
+- 2024: ISSTA, TASE
+
+---
+
+### Reviewer
+- IEEE Transactions on Software Engineering
+- ACM Transactions on Software Engineering Methodolgy
+- IEEE Transactions on Computers
+
+---
+
+### Contact Information
+
+Email: chenyq @@ shanghaitech.edu.cn, phoenixcyq1994 @@ gmail.com
+
+Office: Room 1A-504.C, SIST Building 1, No.393 Huaxia Middle Road, Pudong Area Shanghai.
+
+---

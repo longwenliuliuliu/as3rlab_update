@@ -289,6 +289,8 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-nav .nav-item .nav-link {
     color: var(--global-text-color);
+    text-decoration: none;
+    transition: color 0.3s, text-decoration 0.3s;
 
     &:hover {
       color: var(--global-hover-color);
@@ -299,11 +301,13 @@ ul.task-list input[type="checkbox"] {
     background-color: inherit;
     font-weight: bolder;
     color: var(--global-theme-color);
+    text-decoration: underline;
 
     &:hover {
       color: var(--global-hover-color);
     }
   }
+
 
   .navbar-brand.social {
     padding-bottom: 0;
